@@ -62,3 +62,17 @@ header {
 .logo {
     margin-top: 22px;
 }
+.hero-section {
+    text-align: center;
+}
+form {
+    padding-bottom: 30px;
+}
+
+.hero-btn {
+    border: 0;
+    background: #25DAC5;
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: #fff;
+}
